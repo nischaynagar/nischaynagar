@@ -1,4 +1,4 @@
-## Hello World 2.0!!!! , [I'm Nischay Nagar!](https://github.com/nischaynagar/) <img src="https://github.com/nischaynagar/bio/blob/master/gifs/Hi.gif" width="30px">
+## Hello World 2.0!!!! , [I'm Nischay Nagar!](https://www.linkedin.com/in/nischay-nagar-91463b1a6/) <img src="https://github.com/nischaynagar/bio/blob/master/gifs/Hi.gif" width="30px">
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/nischaynagar/bio/blob/master/gifs/emoji.gif" width="27px">
 
