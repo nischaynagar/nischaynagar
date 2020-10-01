@@ -47,7 +47,7 @@ I'm a sophomore  pursuing Bachelors in Information Technology 🎓 from Indian I
 
 <img src="https://github.com/nischaynagar/bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<img src="https://github.com/nischaynagar/bio/blob/master/add3.gif" width="1200px"></h2>
+
 
 
 [linkedin]:https://www.linkedin.com/in/nischaynagar/
