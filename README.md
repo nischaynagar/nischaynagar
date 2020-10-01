@@ -22,19 +22,19 @@ I'm a sophomore  pursuing Bachelors in Information Technology 🎓 from Indian I
 
 ### Languages and Tools:
                                                                                    
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/nischaynagar/bio/blob/master/nodeJS.gif?raw=true" width="50pxpx"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/nischaynagar/bio/blob/master/webpack.gif?raw=true" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/nischaynagar/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
 
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/nischaynagar/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/nischaynagar/" width="50px" src="https://github.com/nischaynagar/bio/blob/master/linkedin.gif" />][linkedin]
