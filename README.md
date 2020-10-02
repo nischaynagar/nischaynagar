@@ -22,7 +22,7 @@ I'm a sophomore  pursuing Bachelors in Information Technology 🎓 from Indian I
 
 ### Languages and Tools:
                                                                                    
-<img src="https://github.com/nischaynagar/Bio/blob/master/python%20gif.gif" width="50px">&nbsp; &nbsp; &nbsp;
+
 <img src="https://github.com/nischaynagar/Bio/blob/master/cpp.png" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/nischaynagar/Bio/blob/master/aws.gif" width="100px">&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/nischaynagar/bio/blob/master/nodeJS.gif?raw=true" width="50pxpx">&nbsp; &nbsp; &nbsp;
