@@ -12,7 +12,6 @@ I'm a sophomore  pursuing Bachelors in Information Technology 🎓 from Indian I
 ### Talking about Personal Stuffs:
 - 🛠 I’m currently working with NodeJs.
 - 🎮 I love to play with Javascript animations.
-- 🚀 I’m currently learning on Webpack.
 - 👾 Most of my projects are available on Github.
 - 📫 How to reach me: nischaynagar11@gmail.com
 
