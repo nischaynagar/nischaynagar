@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nischay here </h1>
 
 
-<p>Nice to see you 🖐! Wanna know something about me 🧓? </br> I'm <a href="https://www.linkedin.com/in/rahul-roy-22ab42196/">Nischay Nagar</a>, Final Year student 👨‍🎓 at the Indian Institute of Information Technology, Allahabad pursuing my Bachelors degree in Information Technology (IT). Exploring the vast fields in computer science 💻 and expanding my knowledge. A coding enthusiast 👨‍💻 with a charming desire to learn. Refining yourself each day 🏁 makes you a better person. 🙌</p>
+<p>Nice to see you 🖐! Wanna know something about me 🧓? </br> I'm <a href="https://www.linkedin.com/in/nischay-nagar-91463b1a6/">Nischay Nagar</a>, Final Year student 👨‍🎓 at the Indian Institute of Information Technology, Allahabad pursuing my Bachelors degree in Information Technology (IT). Exploring the vast fields in computer science 💻 and expanding my knowledge. A coding enthusiast 👨‍💻 with a charming desire to learn. Refining yourself each day 🏁 makes you a better person. 🙌</p>
 
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
@@ -37,5 +37,5 @@
 </p>
 
 <h3>Wanna reach out? Check out my social medial handles</h3>
-<p><a href="https://github.com/nischaynagar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/nischaynagar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/nischaynagar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/nischay-nagar-91463b1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
